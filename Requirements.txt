@@ -1,0 +1,24 @@
+# Core AI / LLM framework
+openai
+langchain
+langgraph
+
+# Data handling
+numpy
+pandas
+
+# Vector search (RAG)
+faiss-cpu
+
+# Tokenization / LLM utilities
+tiktoken
+
+# API requests (for tools/webhooks)
+requests
+
+# Environment variables
+python-dotenv
+
+# Optional (for future upgrades / embeddings)
+sentence-transformers
+scikit-learn
