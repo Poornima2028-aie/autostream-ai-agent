@@ -95,3 +95,7 @@ project/
 Poornima Paidy
 Computer Science & Engineering (AI)
 
+
+## Updates
+- Improved project description for better clarity
+- Added minor documentation enhancements
